@@ -1,3 +1,0 @@
-C:/Users/jackg/NEU/Mitosis/slicer/cmake-build-debug/CMakeFiles/slicer.dir
-C:/Users/jackg/NEU/Mitosis/slicer/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/jackg/NEU/Mitosis/slicer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
