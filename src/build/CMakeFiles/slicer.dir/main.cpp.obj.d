@@ -104,4 +104,9 @@ CMakeFiles/slicer.dir/main.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_ios.tcc \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ostream.tcc \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\istream \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\istream.tcc
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\istream.tcc \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\fstream \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\codecvt.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\mingw32\bits\basic_file.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\mingw32\bits\c++io.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\fstream.tcc

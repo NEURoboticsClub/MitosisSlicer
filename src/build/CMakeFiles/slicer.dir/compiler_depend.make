@@ -117,7 +117,12 @@ CMakeFiles/slicer.dir/main.cpp.obj: C:/Users/jackg/NEU/Mitosis/slicer/src/main.c
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_ios.tcc \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ostream.tcc \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/istream \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/istream.tcc
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/istream.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/fstream \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/codecvt.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/basic_file.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++io.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fstream.tcc
 
 
 C:/Users/jackg/NEU/Mitosis/slicer/src/main.cpp:
@@ -199,6 +204,8 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/stdarg.h:
 C:/MinGW/include/stdlib.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception_ptr.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/codecvt.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/error_constants.h:
 
@@ -339,3 +346,11 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ostream.tcc:
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/istream:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/istream.tcc:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/fstream:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/basic_file.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++io.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fstream.tcc:
