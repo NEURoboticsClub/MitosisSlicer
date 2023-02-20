@@ -41,9 +41,11 @@ int main() {
 
     char headerArray[80];
     char nextArray[4];
+    char normalVector[4][3];
     
     // open the binary STL file
-    std::ifstream STL_FILE ("../files/Polar Bear STL.stl", std::ios::binary | std::ios::in);
+    //std::ifstream STL_FILE ("../files/Polar Bear STL.stl", std::ios::binary | std::ios::in);
+    std::ifstream STL_FILE ("../files/Smooth Sango-Hango.stl", std::ios::binary | std::ios::in);
 
     // create .txt file to write to
     //std::ofstream TXT_FILE ("../files/triangles.txt");
@@ -53,7 +55,7 @@ int main() {
 
         STL_FILE.read(headerArray, 80);
         STL_FILE.read(nextArray, 4);
-
+        
     }
 
     unsigned int numTriangles = char_to_uint(nextArray);
